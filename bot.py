@@ -12,7 +12,7 @@ START_BUTTONS=[
     [
         InlineKeyboardButton('السورس', url='https://github.com/MACS-AR/TikTok'),
         InlineKeyboardButton('قناة البوتات', url='https://t.me/MACS37'),
-        InlineKeyboardButton('مطور البوت', url='https://t.me/hamo171002'),
+        InlineKeyboardButton('مطور البوت', url='https://t.me/MACS31'),
     ],]
 
 DL_BUTTONS=[
